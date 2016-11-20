@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BME Transport Inspector</string>
+    <string name="click_here_to_close">Click here to close!</string>
+    <string name="activation">Ticket/monthly pass activation</string>
+    <string name="activation_failed">FAILED!</string>
+    <string name="activation_success">was SUCCESSFUL!</string>
+</resources>
